@@ -1,0 +1,15 @@
+[colors.primary]
+foreground = "#D3C6AA"
+background = "#272E33"
+dim_foreground = "#1E2326"
+
+[colors.normal]
+red = "#E67E80"
+yellow = "#DBBC7F"
+green = "#A7C080"
+cyan = "#83C092"
+blue = "#7FBBB3"
+magenta = "#D699B6"
+
+[terminal]
+shell = "/bin/fish"
