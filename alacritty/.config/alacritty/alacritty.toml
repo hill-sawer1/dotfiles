@@ -11,5 +11,9 @@ cyan = "#83C092"
 blue = "#7FBBB3"
 magenta = "#D699B6"
 
+[colors.selection]
+foreground = "CellForeground"
+background = "#543a48"
+
 [terminal]
 shell = "/bin/fish"
