@@ -1,3 +1,7 @@
+[window.padding]
+x = 10
+y = 10
+
 [colors.primary]
 foreground = "#D3C6AA"
 background = "#272E33"
@@ -17,3 +21,5 @@ background = "#543a48"
 
 [terminal]
 shell = "/bin/fish"
+
+
