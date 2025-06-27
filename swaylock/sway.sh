@@ -1,0 +1,35 @@
+#!/bin/bash
+swaylock \
+    --image /home/sahil/Pictures/tinybg.jpg \
+    --show-failed-attempts \
+    --daemonize \
+    --indicator-caps-lock \
+    --scaling fill \
+    --bs-hl-color dbbc7f \
+    --caps-lock-bs-hl-color dbbc7f \
+    --caps-lock-key-hl-color e67e80 \
+    --indicator-radius 50 \
+    --indicator-thickness 10 \
+    --inside-color 2d353b \
+    --inside-clear-color 4f585e \
+    --inside-caps-lock-color 4d4c43 \
+    --inside-ver-color 3a515d \
+    --inside-wrong-color 514045 \
+    --key-hl-color a7c080 \
+    --line-color 00000000 \
+    --line-clear-color 00000000 \
+    --line-caps-lock-color 00000000 \
+    --line-ver-color 00000000 \
+    --line-wrong-color 00000000 \
+    --text-color d3c6aa \
+    --text-clear-color d3c6aa \
+    --text-caps-lock-color d3c6aa \
+    --text-ver-color d3c6aa \
+    --text-wrong-color d3c6aa \
+    --ring-color 3d484d \
+    --ring-clear-color 3d484d \
+    --ring-caps-lock-color 3d484d \
+    --ring-ver-color 7fbbb3 \
+    --ring-wrong-color e67e80 \
+    --separator-color 859289
+
