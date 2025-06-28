@@ -255,6 +255,14 @@ layout {
         // top 64
         // bottom 64
     }
+
+    insert-hint {
+        // off
+        color "7fbbb370"
+        // gradient
+    }
+
+    background-color "1e2326"
 }
 
 // Add lines like this to spawn processes at startup.
