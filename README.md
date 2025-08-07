@@ -1,0 +1,2 @@
+# dotfiles
+manually symlinking btw
