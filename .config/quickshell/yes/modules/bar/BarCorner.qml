@@ -22,7 +22,7 @@ PanelWindow {
         id: cornerWidget
         corner: cornerPanelWindow.corner
         color: Appearance.everforest.bg0
-        opacity: 0.75
-        implicitSize: 12
+        opacity: 0.75 // TODO: standardize in config
+        implicitSize: 12 // TODO: standardize in config
     }
 }
